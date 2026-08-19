@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Placeholder photograph">
+  <rect width="800" height="600" fill="#dfe6ed" />
+  <rect x="120" y="240" width="560" height="240" fill="#c3d0dc" />
+  <rect x="180" y="300" width="120" height="180" fill="#aebfcf" />
+  <rect x="360" y="300" width="260" height="110" fill="#aebfcf" />
+  <path d="M100 240 L400 120 L700 240 Z" fill="#b0c1d1" />
+  <text x="400" y="545" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#6b7c8d">Storefront placeholder</text>
+</svg>

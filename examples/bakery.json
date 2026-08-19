@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "business": {
+    "name": "Flourish Bakehouse",
+    "tagline": "Bread out of the oven at six. Gone by noon.",
+    "industry": "bakery"
+  },
+  "brand": {
+    "primaryColor": "#8a5a2b",
+    "accentColor": "#d98324",
+    "logoUrl": "/images/examples/bakery/logo.svg"
+  },
+  "contact": {
+    "phone": "(608) 555-0113",
+    "address": "17 N Prospect Ave, Madison, WI 53726",
+    "hours": [
+      { "day": "wednesday", "open": "07:00", "close": "14:00" },
+      { "day": "thursday", "open": "07:00", "close": "14:00" },
+      { "day": "friday", "open": "07:00", "close": "14:00" },
+      { "day": "saturday", "open": "07:00", "close": "14:00" },
+      { "day": "sunday", "open": "08:00", "close": "12:00" }
+    ]
+  },
+  "services": [
+    {
+      "name": "Daily Loaves",
+      "description": "Sourdough, seeded rye, and a rotating third loaf posted each morning."
+    },
+    {
+      "name": "Pastry Case",
+      "description": "Croissants, kouign-amann, and whatever fruit is good that week."
+    },
+    {
+      "name": "Whole Cakes",
+      "description": "Made to order with three days' notice, for pickup only.",
+      "price": "From $48"
+    }
+  ],
+  "about": {
+    "story": "We are a five-person bakery with one deck oven, which is the honest reason we sell out. Everything is mixed the afternoon before and baked starting at three in the morning."
+  },
+  "booking": {
+    "type": "phone",
+    "value": "(608) 555-0113"
+  },
+  "seo": {
+    "ogImage": "/images/examples/bakery/og.svg"
+  },
+  "provenance": {
+    "sourceUrls": ["https://example.com/flourish-bakehouse"],
+    "generatedAt": "2026-08-02T11:15:00.000Z",
+    "reviewedByHuman": false
+  }
+}

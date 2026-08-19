@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "business": {
+    "name": "Riverbend Auto Care",
+    "tagline": "Honest repairs, done when we said they'd be done.",
+    "description": "A family-run repair shop serving the Riverbend neighborhood since 1998. We handle everything from oil changes to full engine work, and we explain what we found before we touch anything.",
+    "industry": "auto-repair"
+  },
+  "brand": {
+    "primaryColor": "#1f4e79",
+    "accentColor": "#e8873a",
+    "logoUrl": "/images/logo.svg",
+    "headingFont": "Georgia, serif"
+  },
+  "contact": {
+    "phone": "(555) 214-9080",
+    "email": "service@riverbendauto.example",
+    "address": "1420 Riverbend Ave, Springfield, IL 62704",
+    "mapQuery": "1420 Riverbend Ave, Springfield, IL 62704",
+    "hours": [
+      { "day": "monday", "open": "07:30", "close": "18:00" },
+      { "day": "tuesday", "open": "07:30", "close": "18:00" },
+      { "day": "wednesday", "open": "07:30", "close": "18:00" },
+      { "day": "thursday", "open": "07:30", "close": "18:00" },
+      { "day": "friday", "open": "07:30", "close": "17:00" },
+      { "day": "saturday", "open": "09:00", "close": "14:00" }
+    ]
+  },
+  "services": [
+    {
+      "name": "Diagnostics",
+      "description": "Check-engine lights, odd noises, and problems the last shop could not find.",
+      "price": "From $89"
+    },
+    {
+      "name": "Brakes & Suspension",
+      "description": "Pads, rotors, struts, and alignment, with the worn parts shown to you.",
+      "price": "From $240"
+    },
+    {
+      "name": "Oil & Scheduled Maintenance",
+      "description": "Manufacturer-interval service that keeps your warranty intact.",
+      "price": "From $65"
+    },
+    {
+      "name": "Engine & Transmission",
+      "description": "Major repairs and rebuilds, quoted in writing before work begins."
+    }
+  ],
+  "about": {
+    "story": "Dale Ortiz opened the shop with two bays and a hand-lettered sign. Twenty-five years later his daughter runs the front desk, and about half our customers still come from someone telling a neighbor we were fair with them.",
+    "staff": [
+      {
+        "name": "Dale Ortiz",
+        "role": "Owner, Master Technician",
+        "photoUrl": "/images/staff/person-1.svg",
+        "bio": "ASE Master certified, 30 years under the hood, still the first one in most mornings."
+      },
+      {
+        "name": "Marisol Ortiz",
+        "role": "Service Manager",
+        "photoUrl": "/images/staff/person-2.svg",
+        "bio": "Handles scheduling and estimates, and will talk you out of a repair you do not need."
+      }
+    ]
+  },
+  "booking": {
+    "type": "phone",
+    "value": "(555) 214-9080"
+  },
+  "gallery": [
+    {
+      "src": "/images/gallery/shop-front.svg",
+      "alt": "The Riverbend Auto Care storefront on a clear morning",
+      "caption": "Same corner since 1998"
+    },
+    {
+      "src": "/images/gallery/service-bay.svg",
+      "alt": "A technician working under a lifted sedan in a service bay"
+    },
+    {
+      "src": "/images/gallery/waiting-room.svg",
+      "alt": "The customer waiting room with coffee and seating",
+      "caption": "Coffee is free and actually good"
+    }
+  ],
+  "seo": {
+    "title": "Riverbend Auto Care — Auto Repair in Springfield, IL",
+    "description": "Family-run auto repair in Springfield since 1998. Diagnostics, brakes, maintenance, and engine work, quoted in writing before we start.",
+    "ogImage": "/images/og.svg"
+  },
+  "provenance": {
+    "sourceUrls": ["https://example.com/riverbend-auto"],
+    "generatedAt": "2026-08-19T22:00:00.000Z",
+    "reviewedByHuman": true
+  }
+}

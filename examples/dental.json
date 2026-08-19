@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "business": {
+    "name": "Cedar Park Dental",
+    "tagline": "Gentle dentistry for the whole family.",
+    "description": "A general and cosmetic dental practice in Cedar Park, accepting most PPO plans. We schedule generous appointment windows so nobody gets rushed through a cleaning.",
+    "industry": "dental"
+  },
+  "brand": {
+    "primaryColor": "#0f766e",
+    "accentColor": "#38bdf8",
+    "logoUrl": "/images/examples/dental/logo.svg",
+    "headingFont": "Georgia, 'Times New Roman', serif"
+  },
+  "contact": {
+    "phone": "(512) 555-0148",
+    "email": "hello@cedarparkdental.example",
+    "address": "902 Whitestone Blvd, Suite 210, Cedar Park, TX 78613",
+    "mapQuery": "902 Whitestone Blvd, Cedar Park, TX 78613",
+    "hours": [
+      { "day": "monday", "open": "08:00", "close": "17:00" },
+      { "day": "tuesday", "open": "08:00", "close": "17:00" },
+      { "day": "wednesday", "open": "08:00", "close": "17:00" },
+      { "day": "thursday", "open": "08:00", "close": "17:00" },
+      { "day": "friday", "open": "08:00", "close": "13:00" }
+    ]
+  },
+  "services": [
+    {
+      "name": "Cleanings & Exams",
+      "description": "Routine hygiene visits with digital X-rays and an oral cancer screening.",
+      "price": "$120 without insurance"
+    },
+    {
+      "name": "Fillings & Crowns",
+      "description": "Tooth-colored composite fillings and same-day crowns milled in office.",
+      "price": "From $210"
+    },
+    {
+      "name": "Teeth Whitening",
+      "description": "In-chair whitening in a single visit, or custom take-home trays.",
+      "price": "$395"
+    },
+    {
+      "name": "Clear Aligners",
+      "description": "Full treatment planning with monthly check-ins until you are done.",
+      "price": "From $3,800"
+    },
+    {
+      "name": "Emergency Visits",
+      "description": "Same-day appointments for pain, swelling, or a broken tooth."
+    }
+  ],
+  "about": {
+    "story": "Dr. Nguyen opened Cedar Park Dental in 2011 after a decade in a high-volume practice where she never had more than fifteen minutes with a patient. The whole point of this office is that you get longer than that.",
+    "staff": [
+      {
+        "name": "Dr. Anh Nguyen, DDS",
+        "role": "Owner, General Dentist",
+        "photoUrl": "/images/staff/person-1.svg",
+        "bio": "University of Texas School of Dentistry. Fifteen years in general and cosmetic practice."
+      },
+      {
+        "name": "Bethany Cole, RDH",
+        "role": "Lead Hygienist",
+        "photoUrl": "/images/staff/person-2.svg",
+        "bio": "Has been with the practice since it opened and knows most patients by name."
+      }
+    ]
+  },
+  "booking": {
+    "type": "link",
+    "value": "https://cedarparkdental.example/book"
+  },
+  "gallery": [
+    {
+      "src": "/images/examples/dental/gallery/1.svg",
+      "alt": "A dental treatment room with a chair and overhead light",
+      "caption": "Every room has a window"
+    },
+    {
+      "src": "/images/examples/dental/gallery/2.svg",
+      "alt": "The reception area with seating and a front desk"
+    },
+    {
+      "src": "/images/examples/dental/gallery/3.svg",
+      "alt": "The care team standing together in the office",
+      "caption": "The people you'll actually see"
+    }
+  ],
+  "seo": {
+    "title": "Cedar Park Dental — Family & Cosmetic Dentistry in Cedar Park, TX",
+    "description": "General and cosmetic dentistry in Cedar Park, TX. Cleanings, crowns, whitening, and clear aligners, with unhurried appointments and most PPO plans accepted.",
+    "ogImage": "/images/examples/dental/og.svg"
+  },
+  "provenance": {
+    "sourceUrls": ["https://example.com/cedar-park-dental"],
+    "generatedAt": "2026-08-12T15:30:00.000Z",
+    "reviewedByHuman": true
+  }
+}

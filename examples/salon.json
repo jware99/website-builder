@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "business": {
+    "name": "Vine & Vessel Salon",
+    "tagline": "Cut, color, and a chair that's yours for the hour.",
+    "industry": "salon"
+  },
+  "brand": {
+    "primaryColor": "#7c2d5a",
+    "accentColor": "#e2a03f",
+    "logoUrl": "/images/examples/salon/logo.svg",
+    "headingFont": "'Helvetica Neue', Helvetica, Arial, sans-serif"
+  },
+  "contact": {
+    "phone": "(503) 555-0172",
+    "address": "88 SE Clay St, Portland, OR 97214",
+    "hours": [
+      { "day": "tuesday", "open": "10:00", "close": "19:00" },
+      { "day": "wednesday", "open": "10:00", "close": "19:00" },
+      { "day": "thursday", "open": "10:00", "close": "20:00" },
+      { "day": "friday", "open": "09:00", "close": "20:00" },
+      { "day": "saturday", "open": "09:00", "close": "18:00" }
+    ]
+  },
+  "services": [
+    {
+      "name": "Cut & Style",
+      "description": "Consultation, wash, precision cut, and a finish you can repeat at home.",
+      "price": "From $85"
+    },
+    {
+      "name": "Single Process Color",
+      "description": "Root touch-ups and all-over color, gloss included.",
+      "price": "From $130"
+    },
+    {
+      "name": "Balayage & Highlights",
+      "description": "Hand-painted dimension, usually a three to four hour appointment.",
+      "price": "From $260"
+    },
+    {
+      "name": "Curly Cutting",
+      "description": "Dry cutting for curls and coils, shaped curl by curl."
+    }
+  ],
+  "about": {
+    "staff": [
+      {
+        "name": "Rae Molina",
+        "role": "Owner, Color Specialist",
+        "photoUrl": "/images/staff/person-2.svg",
+        "bio": "Twelve years behind the chair, most of them spent fixing other people's box dye."
+      },
+      {
+        "name": "Priya Raman",
+        "role": "Stylist, Curly Hair",
+        "photoUrl": "/images/staff/person-1.svg"
+      }
+    ]
+  },
+  "booking": {
+    "type": "link",
+    "value": "https://vineandvessel.example/appointments"
+  },
+  "gallery": [
+    {
+      "src": "/images/examples/salon/gallery/1.svg",
+      "alt": "The main styling floor with mirrors and chairs"
+    },
+    {
+      "src": "/images/examples/salon/gallery/2.svg",
+      "alt": "The color mixing bar with bowls and brushes",
+      "caption": "Every formula gets written down"
+    },
+    {
+      "src": "/images/examples/salon/gallery/3.svg",
+      "alt": "A shelf of retail hair products"
+    }
+  ],
+  "seo": {
+    "description": "Cut, color, balayage, and curly cutting in southeast Portland. Unhurried appointments and formulas we keep on file.",
+    "ogImage": "/images/examples/salon/og.svg"
+  },
+  "provenance": {
+    "sourceUrls": ["https://example.com/vine-and-vessel"],
+    "generatedAt": "2026-07-30T18:05:00.000Z",
+    "reviewedByHuman": false
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Placeholder photograph">
+  <rect width="800" height="600" fill="#e4e9ee" />
+  <rect x="60" y="120" width="680" height="300" rx="16" fill="#c7d3de" />
+  <circle cx="240" cy="440" r="56" fill="#9fb2c3" />
+  <circle cx="560" cy="440" r="56" fill="#9fb2c3" />
+  <rect x="150" y="200" width="500" height="120" rx="24" fill="#b1c2d1" />
+  <text x="400" y="545" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#6b7c8d">Work area placeholder</text>
+</svg>
